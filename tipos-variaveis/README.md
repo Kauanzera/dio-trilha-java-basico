@@ -1,18 +1,16 @@
-## Getting Started
+# Aprendendo a Criar README.md no VScode
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Realizando alguns testes sobre o readme.md no VScode, para versionamento no GitHub.
 
-## Folder Structure
+## Teste Teste
 
-The workspace contains two folders by default, where:
+- `Sysout` = "System.out.println();
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+> Aprendendo mais coisas legais aqui
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Teste links
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Meu [LinkedIn](https://www.linkedin.com/in/kauan-oliveira19).
+Meu [GitHub](https://github.com/Kauanzera).
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### É isso pexual!
